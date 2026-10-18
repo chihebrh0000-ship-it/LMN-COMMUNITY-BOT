@@ -1,0 +1,12 @@
+{
+  "name": "lmn-community-bot",
+  "version": "1.0.0",
+  "description": "LMN Community Discord Booster Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.19.3"
+  }
+}
